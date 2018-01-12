@@ -1,11 +1,4 @@
 body {
   background-color: black;
-  color: red;
-  text-align: center;
-}
-
-h1,
-h3 {
-  font-family: Verdana;
-  color: red;
+  font-family: verdana;
 }
